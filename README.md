@@ -9,8 +9,8 @@
 
 # YT links
 * [Clean Architecture by Uncle Bob](https://www.youtube.com/watch?v=o_TH-Y78tt4) *Skip first 10 minutes*
-* [Android patterns by Godfrey Nolan](https://www.youtube.com/watch?v=JV63czrUpbI&t=1440s) *Cool overlook of the great 4, MVC, MVP, MVVM and CLEAN)
-* [Android Developers Patters](https://www.youtube.com/watch?v=hi5R0gq9tdA&list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM) *A little bit of everything and news about Android)
+* [Android patterns by Godfrey Nolan](https://www.youtube.com/watch?v=JV63czrUpbI&t=1440s) *Cool overlook of the great 4, MVC, MVP, MVVM and CLEAN)*
+* [Android Developers Patters](https://www.youtube.com/watch?v=hi5R0gq9tdA&list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM) *A little bit of everything and news about Android*
 
 # Articles
 * [Best practices in Android Developement](https://blog.mindorks.com/android-development-best-practices-83c94b027fd3) 
