@@ -15,6 +15,7 @@
 # Articles
 * [Best practices in Android Developement](https://blog.mindorks.com/android-development-best-practices-83c94b027fd3) 
 * [Animate all the things. Transitions in Android](https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50)
+* [Architecting Android The Clean Way](https://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
 
 # Podcasts
 * [Fragmented](http://fragmentedpodcast.com/) 
