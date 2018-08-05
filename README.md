@@ -17,6 +17,7 @@
 * [Animate all the things. Transitions in Android](https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50)
 * [Architecting Android The Clean Way](https://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
 * [Activities in Android are not UI Elements](https://www.techyourchance.com/activities-android/)
+* [Awesome tools for android developers](https://medium.com/@naveentp/awesome-list-of-online-tools-for-android-developers-f40af8f46299)
 
 # Podcasts
 * [Fragmented](http://fragmentedpodcast.com/) 
