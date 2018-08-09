@@ -25,3 +25,6 @@
 
 # Books
 * Clean Code by Uncle Bob
+
+# Guides
+* [Coroutines Guide](https://github.com/Kotlin/kotlinx.coroutines/blob/master/coroutines-guide.md)
