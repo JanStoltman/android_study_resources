@@ -20,7 +20,7 @@
 * [Awesome tools for android developers](https://medium.com/@naveentp/awesome-list-of-online-tools-for-android-developers-f40af8f46299)
 * [Gradle build tools](https://medium.com/mindorks/introduction-to-android-build-system-for-beginners-cfafa1ab4104)
 * [View pager transitions](https://medium.com/@BashaChris/the-android-viewpager-has-become-a-fairly-popular-component-among-android-apps-its-simple-6bca403b16d4)
-* [Getting started with Anko] (https://www.codementor.io/jessicathornsby/write-better-kotlin-getting-started-with-anko-for-android-ecwt3p6hz)
+* [Getting started with Anko](https://www.codementor.io/jessicathornsby/write-better-kotlin-getting-started-with-anko-for-android-ecwt3p6hz)
 
 # Podcasts
 * [Fragmented](http://fragmentedpodcast.com/) 
