@@ -19,6 +19,7 @@
 * [Activities in Android are not UI Elements](https://www.techyourchance.com/activities-android/)
 * [Awesome tools for android developers](https://medium.com/@naveentp/awesome-list-of-online-tools-for-android-developers-f40af8f46299)
 * [Gradle build tools](https://medium.com/mindorks/introduction-to-android-build-system-for-beginners-cfafa1ab4104)
+* [View pager transitions](https://medium.com/@BashaChris/the-android-viewpager-has-become-a-fairly-popular-component-among-android-apps-its-simple-6bca403b16d4)
 
 # Podcasts
 * [Fragmented](http://fragmentedpodcast.com/) 
