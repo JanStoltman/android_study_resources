@@ -2,6 +2,7 @@
 * [Android pub](https://android.jlelse.eu/)
 * [Mindorks](https://mindorks.com/)
 * [Android Developers](https://android-developers.googleblog.com/)
+* [Jake Wharton](https://jakewharton.com/blog/)
 
 # Newsletters
 * [Android weekly](https://androidweekly.net/) 
