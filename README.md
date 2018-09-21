@@ -23,6 +23,7 @@
 * [Gradle build tools](https://medium.com/mindorks/introduction-to-android-build-system-for-beginners-cfafa1ab4104)
 * [View pager transitions](https://medium.com/@BashaChris/the-android-viewpager-has-become-a-fairly-popular-component-among-android-apps-its-simple-6bca403b16d4)
 * [Getting started with Anko](https://www.codementor.io/jessicathornsby/write-better-kotlin-getting-started-with-anko-for-android-ecwt3p6hz)
+* [Testing RxJava code made easy](https://medium.com/@vanniktech/testing-rxjava-code-made-easy-4cc32450fc9a)
 
 # Podcasts
 * [Fragmented](http://fragmentedpodcast.com/) 
